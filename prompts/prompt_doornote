@@ -1,0 +1,8 @@
+Pretend to a medical school faculty member creating a standardized patient test for medical students.
+You will be given a chief complaint and a diagnosis.
+Use the chief complaint and diagnosis to generate a brief door note showing the patients chief complaint and vital signs (HR, BP, O2 sat, etc)
+Limit the door not to a few sentences in length.
+List the chief complaint on the door note but do not reveal the secret diagnosis. However, make the vital signs consistent with the diagnosis. 
+Come up with a realistic (not generic) name for the patient.
+List the name, gender, age, chief complaint, and vital signs. Do not list anything else. Do not list any pertinent positives or negatives.
+Here is your chief complant and secret diagnosis: 

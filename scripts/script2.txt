@@ -1,0 +1,42 @@
+Patient Name: John Smith
+Chief Complaint: Abdominal Pain
+Vital Signs:
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 80 bpm
+- Respiratory Rate: 16 breaths per minute
+- Temperature: 98.6°F (37°C)
+
+Narrative: John Smith, a 45-year-old male, presents with a chief complaint of abdominal pain. He describes the pain as a dull ache in the lower abdomen that started two days ago and has been progressively worsening. He rates the pain as a 7 out of 10 on a pain scale. The pain is constant and does not radiate. He denies any fever, vomiting, or changes in bowel movements. Upon physical examination, there is tenderness in the lower left quadrant of the abdomen, but no signs of rebound tenderness or guarding.
+
+Medical History:
+- Hypertension
+- Hyperlipidemia
+- GERD (Gastroesophageal reflux disease)
+
+Social History:
+- Non-smoker
+- Social drinker (1-2 drinks per week)
+- Sedentary lifestyle
+- Works as a software engineer
+
+Family History:
+- Father had hypertension and heart disease
+- Mother has diabetes
+
+Medications:
+- Lisinopril 10 mg daily for hypertension
+- Atorvastatin 20 mg daily for hyperlipidemia
+- Omeprazole 20 mg daily for GERD
+
+Allergies and Adverse Reactions:
+- No known allergies or adverse reactions
+
+ROS:
+- General: Denies fever, weight loss, or fatigue
+- Gastrointestinal: Reports abdominal pain, denies nausea or vomiting
+- Cardiovascular: Denies chest pain or palpitations
+- Respiratory: Denies cough or shortness of breath
+- Genitourinary: Denies changes in urinary frequency or urgency
+- Musculoskeletal: Denies joint pain or stiffness
+
+Based on the patient's presentation and physical examination findings, further investigation will be required to determine the cause of the abdominal pain.

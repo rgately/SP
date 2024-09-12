@@ -1,0 +1,38 @@
+Patient Name: Rebecca Johnson
+
+Chief Complaint: Headache
+
+Vital Signs:
+- Blood pressure: 120/80 mmHg
+- Heart rate: 75 bpm
+- Respiratory rate: 16 bpm
+- Temperature: 98.6°F
+
+Narrative: Rebecca Johnson, a 35-year-old female, presents to the clinic with a chief complaint of headache. She describes the headache as a dull, constant pain located in the frontal region. The pain is rated as a 7 on a scale of 1 to 10. She reports that the headache has been persisting for the past two days and has not responded to over-the-counter pain medication. Rebecca denies any associated symptoms such as nausea, vomiting, or changes in vision.
+
+Medical History:
+- Hypertension
+- Migraines
+
+Social History:
+- Non-smoker
+- Drinks alcohol occasionally
+- Works as an office manager
+
+Family History:
+- Father has a history of migraines
+
+Medications:
+- Lisinopril 10 mg once daily for hypertension
+
+Allergies and Adverse Reactions:
+- None reported
+
+ROS:
+- No recent weight changes
+- No changes in appetite
+- No dizziness or lightheadedness
+- No history of trauma or recent head injury
+- No history of seizures or loss of consciousness
+- No changes in bowel or bladder function
+- No recent infections or illnesses
